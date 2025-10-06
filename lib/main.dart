@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:fluttertuto/pages/splash_page.dart';
-import 'package:fluttertuto/pages/welcome_page.dart';
+import 'pages/splash_page.dart';
+import 'pages/welcome_page.dart';
 
 void main() {
   runApp(const MyApp());
