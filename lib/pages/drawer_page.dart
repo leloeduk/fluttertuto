@@ -21,7 +21,7 @@ class DrawerPage extends StatelessWidget {
                 children: [
                   CircleAvatar(radius: 50, backgroundColor: Colors.red),
                   SizedBox(height: 10),
-                  Text("Lelo Eduk 2025"),
+                  Text("LeloEduk 2025"),
                 ],
               ),
             ),
