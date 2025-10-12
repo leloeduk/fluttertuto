@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Fluttertuto',
       theme: ThemeData.dark(),
-      home: SplashPage(duration: 2, page: WelcomePage()),
+      home: SplashPage(duration: 3, page: WelcomePage()),
     );
   }
 }
